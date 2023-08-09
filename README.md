@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 -->
 [![wakatime](https://wakatime.com/badge/user/ba89e8ba-5b95-4b64-8d5d-50d93153dc2f.svg?style=for-the-badge)](https://wakatime.com/@ba89e8ba-5b95-4b64-8d5d-50d93153dc2f)  
 
-Overall time spent coding:  
-<img src="https://wakatime.com/share/@Kaminari/78819524-d55d-4734-b37d-a0aa3a7a66a1.svg"></img> 
+  
+<img src="https://wakatime.com/share/@Kaminari/78819524-d55d-4734-b37d-a0aa3a7a66a1.svg"></img>  
+<img src="https://wakatime.com/share/@Kaminari/98a8dd62-ddc8-4a0d-a1dc-7f0954524a07.svg"></img>
